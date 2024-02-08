@@ -1,0 +1,6 @@
+
+addFile
+
+cwd = getCwd()
+scopedHarpoonList = getScopedTree(cwd)
+scopedHarpoonList.add(getFilePath())
